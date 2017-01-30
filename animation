@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>logo animation prototype</title>
+ <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+</head>
+<body>
+	
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
 x="0px" y="0px" width="1234" height="374" xml:space="preserve">
 
@@ -25,3 +34,5 @@ x="0px" y="0px" width="1234" height="374" xml:space="preserve">
  d="M850 230 L1200 230"/>
 
 </svg>
+</body>
+</html>
