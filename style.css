@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 	width: 100%;
 }
@@ -8,6 +9,10 @@ body {
 svg {
  display: block;
  height: 100%;
+=======
+svg {
+ display: block;
+>>>>>>> 69e691ccad3a18bea6e3148a6a8958eefcccfc2c
  margin: 0 auto;
  border: 1px solid blue;
 }
